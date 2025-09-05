@@ -1,0 +1,7 @@
+C:\Users\UPN\Desktop\8455NV\FA_NICOLAS\FA_8445_NicolasVEga\bin\Debug\FA_8445_NicolasVEga.exe.config
+C:\Users\UPN\Desktop\8455NV\FA_NICOLAS\FA_8445_NicolasVEga\bin\Debug\FA_8445_NicolasVEga.exe
+C:\Users\UPN\Desktop\8455NV\FA_NICOLAS\FA_8445_NicolasVEga\bin\Debug\FA_8445_NicolasVEga.pdb
+C:\Users\UPN\Desktop\8455NV\FA_NICOLAS\FA_8445_NicolasVEga\obj\Debug\FA_8445_NicolasVEga.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\8455NV\FA_NICOLAS\FA_8445_NicolasVEga\obj\Debug\FA_8445_NicolasVEga.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\8455NV\FA_NICOLAS\FA_8445_NicolasVEga\obj\Debug\FA_8445_NicolasVEga.exe
+C:\Users\UPN\Desktop\8455NV\FA_NICOLAS\FA_8445_NicolasVEga\obj\Debug\FA_8445_NicolasVEga.pdb
