@@ -5,3 +5,11 @@ C:\Users\UPN\Desktop\8455NV\FA_NICOLAS\FA_8445_NicolasVEga\obj\Debug\FA_8445_Nic
 C:\Users\UPN\Desktop\8455NV\FA_NICOLAS\FA_8445_NicolasVEga\obj\Debug\FA_8445_NicolasVEga.csproj.CoreCompileInputs.cache
 C:\Users\UPN\Desktop\8455NV\FA_NICOLAS\FA_8445_NicolasVEga\obj\Debug\FA_8445_NicolasVEga.exe
 C:\Users\UPN\Desktop\8455NV\FA_NICOLAS\FA_8445_NicolasVEga\obj\Debug\FA_8445_NicolasVEga.pdb
+C:\Users\USUARIO\Desktop\FA_llciclo_sem3\FA_IIciclo_nicolasvega\FA_8445_NicolasVEga\bin\Debug\FA_8445_NicolasVEga.exe.config
+C:\Users\USUARIO\Desktop\FA_llciclo_sem3\FA_IIciclo_nicolasvega\FA_8445_NicolasVEga\bin\Debug\FA_8445_NicolasVEga.exe
+C:\Users\USUARIO\Desktop\FA_llciclo_sem3\FA_IIciclo_nicolasvega\FA_8445_NicolasVEga\bin\Debug\FA_8445_NicolasVEga.pdb
+C:\Users\USUARIO\Desktop\FA_llciclo_sem3\FA_IIciclo_nicolasvega\FA_8445_NicolasVEga\obj\Debug\FA_8445_NicolasVEga.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\FA_llciclo_sem3\FA_IIciclo_nicolasvega\FA_8445_NicolasVEga\obj\Debug\FA_8445_NicolasVEga.exe.config
+C:\Users\USUARIO\Desktop\FA_llciclo_sem3\FA_IIciclo_nicolasvega\FA_8445_NicolasVEga\obj\Debug\FA_8445_NicolasVEga.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\FA_llciclo_sem3\FA_IIciclo_nicolasvega\FA_8445_NicolasVEga\obj\Debug\FA_8445_NicolasVEga.exe
+C:\Users\USUARIO\Desktop\FA_llciclo_sem3\FA_IIciclo_nicolasvega\FA_8445_NicolasVEga\obj\Debug\FA_8445_NicolasVEga.pdb

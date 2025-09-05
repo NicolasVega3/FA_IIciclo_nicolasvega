@@ -10,7 +10,7 @@ namespace FA_8445_NicolasVEga
     {
         static void Main(string[] args)
         {
-            ejer3();
+            ejer4();
             Console.ReadKey();
         }
         static void ejer1()
@@ -45,6 +45,23 @@ namespace FA_8445_NicolasVEga
             Console.WriteLine("Resta: " + (x - y));
             Console.WriteLine("Multiplicación: " + (x * y));
             Console.WriteLine("División: " + divi);
+        }
+
+        static void ejer4()
+        {
+            Console.WriteLine("Ingrese un numero decimal: ");
+            double num = Convert.ToDouble(Console.ReadLine());
+
+            double raiz_cuadrada = Math.Sqrt(num);
+            int redondeo = (int)Math.Round(num);
+            double alCubo = Math.Pow(num, 3);
+            double RaizCubica = Math.Pow(1.0 / 3, num);
+
+
+            Console.WriteLine($"La raiz cuadrada de {num} es: {raiz_cuadrada}");
+            Console.WriteLine($"El numero redondeado es: {redondeo}");
+            Console.WriteLine($"El numero elevado al cubo es: {alCubo}");
+            Console.WriteLine($"La raiz cubica es: {RaizCubica}");
         }
     }
 }
