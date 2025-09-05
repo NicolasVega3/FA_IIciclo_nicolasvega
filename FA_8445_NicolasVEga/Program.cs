@@ -10,6 +10,20 @@ namespace FA_8445_NicolasVEga
     {
         static void Main(string[] args)
         {
+            ejer1();
+            Console.ReadKey();
+        }
+        static void ejer1()
+        {
+            string nombre, carrera;
+
+            Console.Write("Ingrese su nombre: ");
+            nombre = Console.ReadLine();
+
+            Console.Write("Ingrese su carrera: ");
+            carrera = Console.ReadLine();
+
+            Console.WriteLine($"\n{nombre},bienvenido al curso de Fundamentos de Algoritmos de la carrera de{carrera}");
         }
     }
 }
